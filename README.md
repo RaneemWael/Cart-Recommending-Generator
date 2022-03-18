@@ -1,4 +1,5 @@
 # Cart-Recommending-Generator
+A haskell implementation of a recommender system based upon the users’ purchases history.
 
 ## Description:
 #### A recommender system that uses the users’ purchases history to:
